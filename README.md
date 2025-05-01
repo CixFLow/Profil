@@ -26,5 +26,5 @@ Hello Everyone 👋, My name is Kaan and my nickname is Krazy-8
 </p>
 
 
-https://www.instagram.com/kaanaoloji/
+
 
