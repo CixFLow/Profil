@@ -20,11 +20,11 @@ Hello Everyone 👋, My name is Kaan and my nickname is Krazy-8
 <p align="center">
 	<a href="mailto:cixflowofficial@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/CixFLow"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.instagram.com/mengesekrem/?hl=tr"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
+	<a href="https://www.instagram.com/kaanaoloji/?hl=tr"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
 	<a href="https://www.youtube.com/channel/UCoipgGey5val0hOeyoDsJdw"><img src="https://img.shields.io/badge/youtube-%23EA4335.svg?style=plastic&logo=youtube&logoColor=white" alt="YouTube"/></a>
   <a href="https://znap.link/CodeCixFLow"><img src="https://img.shields.io/badge/other-%23181717.svg?style=plastic&logo=other&logoColor=red" alt="YouTube"/></a>
 </p>
 
 
-
+https://www.instagram.com/kaanaoloji/
 
